@@ -1,16 +1,14 @@
-EyeCatcher: Real-time Eye Tracking Using CNNs
+EyeCatcher
 =============================================
-
-Overview
---------
-
 EyeCatcher implements a real-time eye-tracking system, utilizing convolutional neural network (CNN) architectures to accurately detect and track eye positions in video frames. By applying advanced data augmentation techniques and optimizing the model’s hyperparameters, the system enhances performance and accuracy in tracking eye movements.
 
 Installation and Dependencies
 -----------------------------
 
 To install EyeCatcher and its dependencies, run the following command:  
-pip install opencv-python dlib tensorflow keras numpy matplotlib  
+```python
+pip install opencv-python dlib tensorflow keras numpy matplotlib
+```
 
 ### Dependencies:
 
